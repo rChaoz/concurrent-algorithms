@@ -1,1 +1,1 @@
-rootProject.name = "AA"
+rootProject.name = "ConcurrentAlgorithms"
